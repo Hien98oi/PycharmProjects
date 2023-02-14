@@ -12,4 +12,4 @@ for question in question_data:
     question_banks.append(new_question)
 
 quiz = QuizBrain(question_banks)
-print(quiz)
+print(quiz)ghfdgdcg
